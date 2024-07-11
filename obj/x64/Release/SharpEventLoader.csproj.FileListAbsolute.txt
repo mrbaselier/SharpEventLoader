@@ -1,0 +1,12 @@
+C:\Users\Jarno Baselier\Desktop\SharpEventPersist-main\SharpEventLoader\bin\x64\Release\SharpEventLoader.exe.config
+C:\Users\Jarno Baselier\Desktop\SharpEventPersist-main\SharpEventLoader\bin\x64\Release\SharpEventLoader.exe
+C:\Users\Jarno Baselier\Desktop\SharpEventPersist-main\SharpEventLoader\bin\x64\Release\SharpEventLoader.pdb
+C:\Users\Jarno Baselier\Desktop\SharpEventPersist-main\SharpEventLoader\obj\x64\Release\SharpEventLoader.csproj.AssemblyReference.cache
+C:\Users\Jarno Baselier\Desktop\SharpEventPersist-main\SharpEventLoader\obj\x64\Release\SharpEventLoader.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jarno Baselier\Desktop\SharpEventPersist-main\SharpEventLoader\obj\x64\Release\SharpEventLoader.csproj.CoreCompileInputs.cache
+C:\Users\Jarno Baselier\Desktop\SharpEventPersist-main\SharpEventLoader\obj\x64\Release\SharpEventLoader.exe
+C:\Users\Jarno Baselier\Desktop\SharpEventPersist-main\SharpEventLoader\obj\x64\Release\SharpEventLoader.pdb
+C:\Users\Jarno Baselier\Desktop\SharpEventPersist-main\SharpEventLoader\bin\x64\Release\NDesk.Options.dll
+C:\Users\Jarno Baselier\Desktop\SharpEventPersist-main\SharpEventLoader\obj\x64\Release\SharpEventLoader.csproj.CopyComplete
+C:\Users\Jarno Baselier\Desktop\SharpEventPersist-main\SharpEventLoader\bin\x64\Release\CommandLine.dll
+C:\Users\Jarno Baselier\Desktop\SharpEventPersist-main\SharpEventLoader\bin\x64\Release\CommandLine.xml
